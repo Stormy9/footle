@@ -5,7 +5,7 @@
 <hr>
 This is the repo for our capstone project before graduating with a Bachelor's Degree in Computer Science.
 <br><br>
-Our primary Senior Project is Petopia! -- a web site/app for pet owners to find a reliable pet care provider, and to give pet lovers the opportunity to make some extra money doing something they enjoy.  
+Our primary Senior Project is **Petopia!** -- a web site/app for pet owners to find a reliable pet care provider, and to give pet lovers the opportunity to make some extra money doing something they enjoy.  **Petopia!**
 <br><br>
 As a sometimes very busy pet owner myself, I know that there are times I could use services from someone coming to give my pets their medicine, to sitting with them.  Pet care providers can specify which things they are experienced and comfortable in doing, and for which types of pets.
 <br><br>
