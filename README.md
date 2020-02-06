@@ -2,6 +2,7 @@
 # wou-cs_team-nerdvana
 ### Tricia Holman, Corrin Moser, Joseph Tavares
 ##### Western Oregon University   |   Computer Science Department   |   Senior Project 2019/20
+<hr>
 
 
 <hr>
