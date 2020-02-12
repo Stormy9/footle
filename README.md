@@ -17,8 +17,8 @@ For pet owners and pet care providers who need a means to connect with each othe
 <br>
 [.....and the lyrics](https://genius.com/Nirvana-territorial-pissings-lyrics)
 <br>
-<p style="align:center">Tagline => Cleverminds</p>
-<p style="align:center">Motto =>  Start Earlier!</p>
+<p style="style="text-align: center;">Tagline => Cleverminds</p>
+<p style="text-align: center;">Motto =>  Start Earlier!</p>
 
 <br><br><br>
 <hr>
