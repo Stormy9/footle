@@ -15,10 +15,10 @@ For pet owners and pet care providers who need a means to connect with each othe
 
 [Team Song (Nirvana, of course)](https://www.youtube.com/watch?v=_fdYjlAviT8)
 <br>
-[and the lyrics](https://genius.com/Nirvana-territorial-pissings-lyrics)
+[.....and the lyrics](https://genius.com/Nirvana-territorial-pissings-lyrics)
 <br>
-<p style="text-align:center">Team Motto:</p>
-<p style="text-align:center">Start Earlier!</p>
+<p style="align:center">Tagline => Cleverminds</p>
+<p style="align:center">Motto =>  Start Earlier!</p>
 
 <br><br><br>
 <hr>
